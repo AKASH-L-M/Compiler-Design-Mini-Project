@@ -1,0 +1,1 @@
+int main ( ) begin int a , b , c ; end
